@@ -11,7 +11,7 @@ const PORT = process.env.PORT
 
 const allowedOrigins = [
     "http://localhost:5173", 
-    "https://expense-tracker-sg1z.vercel.app" 
+    "https://expense-tracker-ea8j.onrender.com" 
 ];
 
 //middLewares
